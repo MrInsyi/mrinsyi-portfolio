@@ -5,12 +5,10 @@ export default function About() {
   return (
     <section className="container my-5">
       <h2 className="text-primary border-bottom pb-2 mb-3">About Me</h2>
-      <p>
-        I'm a multidisciplinary professional passionate about technology,
-        engineering, and entrepreneurship. With experience spanning software
-        development, gold trading, and automation systems, I strive to bridge
-        the gap between traditional industries and modern digital solutions.
-      </p>
+        <p>
+            Majoring in computer network, i am currently are working as an Automation & Data Engineer at Yollink Manufacturing.
+            I have a passion for developing efficient automation solutions and leveraging data to drive informed decision-making.
+        </p>
     </section>
   );
 }

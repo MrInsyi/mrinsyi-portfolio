@@ -9,7 +9,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <div>
+    <div className="container-fluid">
       <Header />
       <About />
       <Skills />
